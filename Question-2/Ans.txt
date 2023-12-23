@@ -1,0 +1,9 @@
+HTML Entities: HTML entities are code which represent special symbols,characters with specific
+               meanings in HTML.
+
+Five Commonly uses HTML entities are following:--
+1.> &lt : it represent less than "<" symbol.
+2.> &gt : it represent greater than ">" symbol.
+3.> &amp: it represent ampresand 	"&" symbol.
+4.>	&copy: it represent copyright "©" symbol.
+5.>	&reg : it represent trademark "®" symbol.

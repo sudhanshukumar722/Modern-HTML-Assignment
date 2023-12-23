@@ -1,0 +1,16 @@
+There are following ways which help us in improving the accessibility of HTML-----
+1.> Using semantic html tag : Using semantic HTML elements helps improve accessibility by providingmeaningful structure to your content. Semantic elements like <header>,
+                             <nav>, <main>, <article>, and <footer> convey the purpose of different sections to assistive technologies, making it easier for users with
+                             disabilities to navigate and understand the content. 
+
+2.> Provide Alternative Text for Images: Include descriptive and meaningful alternative text for images using the alt attribute in the <img> tag. 
+                                         This ensures that users who rely on screen readers can understand the content of the images.
+
+3.> Ensure Color Contrast: Maintain sufficient color contrast between text and background colors to make content readable for users with visual impairments.
+
+4.> Use ARIA (Accessible Rich Internet Applications) Roles: ARIA roles can enhance the accessibility of dynamic content, such as single-page applications. 
+                                                            Use ARIA roles and attributes to provide additional information to assistive technologies about 
+                                                            the purpose and behavior of elements.
+
+5.> Provide Transcripts and Captions: For multimedia content like videos and audio, provide transcripts and captions. This benefits users with hearing impairments 
+                                     and ensures that the content is accessible to a wider audience.
